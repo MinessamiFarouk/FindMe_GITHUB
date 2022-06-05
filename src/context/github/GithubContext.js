@@ -71,7 +71,7 @@ export const GithubProvider = ({ children }) => {
     setLoading();
 
     const params = new URLSearchParams({
-      sert: "created",
+      sert: "Created",
       per_page: 10,
     });
 
