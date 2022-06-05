@@ -15,7 +15,6 @@ function UserSearch() {
     } else {
       //@todo - Search for users
       searchUsers(text);
-
       setText("");
     }
   };
